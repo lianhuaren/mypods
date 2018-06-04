@@ -1,0 +1,6 @@
+framework module HStarTools {
+  umbrella header "HStarTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
